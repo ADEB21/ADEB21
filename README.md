@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student frontend developer at BIHUA, 3rd year Bachelor Digital Designer, ESADD
+Student frontend developer at [BIHUA](https://bihua.fr/), 3rd year Bachelor Digital Designer, [ESADD](https://esadd.fr/)
 
 
 ## 🌐 Socials:
