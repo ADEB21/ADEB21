@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student frontend developer at  [BIHUA<img src="https://bihua.fr/favicon.svg" alt="BIHUA" width="10"/>](https://bihua.fr/) , 3rd year Bachelor Digital Designer, [ESADD<img src="https://bihua.fr/favicon.svg" alt="ESADD" width="10"/>](https://esadd.fr/)
+Student frontend developer at  [BIHUA<img src="https://bihua.fr/favicon.svg" alt="BIHUA" width="10"/>](https://bihua.fr/) , 3rd year Bachelor Digital Designer, [ESADD<img src="https://cdn.prod.website-files.com/6522e34c6255a39c3d0ea3b5/65250655cc9c8570ee2e3cac_logo-esadd-no-text.png" alt="ESADD" width="10"/>](https://esadd.fr/)
 
 
 ## 🌐 Socials:
