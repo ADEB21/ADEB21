@@ -10,8 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADEB21&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Quote
-
+# ✍️ Quote
 > "La difficulté n’est pas de voir ce que personne n’a jamais vu mais de penser comme personne n’a jamais pensé au sujet de quelque chose que tous voient."  
 — Arthur Schopenhauer
 
