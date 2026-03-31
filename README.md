@@ -1,5 +1,36 @@
 # 💫 About Me:
-🇫🇷 Français<br><br>Arthur, développeur freelance français spécialisé dans la création d’applications et de sites web.<br>Diplômé d’un Mastère Expert du Design Numérique (ESADD Dijon).<br>J’aime particulièrement travailler avec Next.js.<br><br>🔭 Travaille actuellement sur plusieurs projets freelance<br>👯 Souhaite collaborer sur des applications web ou mobiles, notamment autour de l’IA<br>🤝 Recherche un mentor en IA ou backend avancé<br>🌱 Apprend le SQL, le backend, les APIs et approfondit Next.js<br>💬 À l’aise sur le frontend, le design numérique et l’UX/UI<br>⚡ Nageur, 2 à 3 entraînements par semaine<br><br>🇬🇧 English<br><br>Arthur, a French freelance developer focused on building web applications and websites.<br>Graduated with a Master’s degree in Digital Design Expertise (ESADD Dijon).<br>Currently enjoying working with Next.js.<br><br>🔭 Working on multiple freelance projects<br>👯 Looking to collaborate on web or mobile applications, especially involving AI<br>🤝 Looking for a mentor in AI or advanced backend development<br>🌱 Learning SQL, backend development, APIs, and improving Next.js skills<br>💬 Ask me about frontend development, digital design, and UX/UI<br>⚡ Fun fact: swimmer, training 2–3 times a week
+
+🇫🇷 Français  
+
+Arthur, développeur Front-End avec une expérience allant de junior à lead, spécialisé en React.js, Vue.js et dans la création d’interfaces performantes et évolutives.  
+Diplômé d’un Mastère Expert du Design Numérique (ESADD Dijon).  
+
+J’interviens sur des projets web avec un focus sur la performance, l’expérience utilisateur et l’optimisation technique.  
+
+🔭 Expérience sur des projets à fort trafic et e-commerce  
+🚀 Optimisation des performances et réduction des coûts techniques (jusqu’à -75 %)  
+🧩 Intégration et gestion de CMS (WordPress, Sanity, Prismic)  
+🤝 À l’aise pour collaborer avec équipes techniques et non techniques  
+🌱 Approfondit les bonnes pratiques front-end, la performance et l’architecture  
+💬 Compétences : Front-End, UX/UI, performance web  
+⚡ Natation : discipline et persévérance appliquées au travail  
+
+---
+
+🇬🇧 English  
+
+Arthur, Front-End Developer with experience ranging from junior to lead, specialized in React.js, Vue.js, and building scalable and high-performance interfaces.  
+Graduated with a Master’s degree in Digital Design Expertise (ESADD Dijon).  
+
+I work on web projects with a strong focus on performance, user experience, and technical optimization.  
+
+🔭 Experience on high-traffic and e-commerce projects  
+🚀 Performance optimization and cost reduction (up to -75%)  
+🧩 CMS integration and management (WordPress, Sanity, Prismic)  
+🤝 Comfortable working with both technical and non-technical teams  
+🌱 Continuously improving front-end best practices, performance, and architecture  
+💬 Ask me about Front-End, UX/UI, and web performance  
+⚡ Swimmer: discipline and consistency applied to my work
 
 
 ## 🌐 Socials:
